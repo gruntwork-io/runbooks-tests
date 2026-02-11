@@ -1,3 +1,4 @@
 [tools]
 opentofu = "1.11.4"
+opentofu = "1.11.4"
 terragrunt = "1.0.0-rc1"
