@@ -2,6 +2,9 @@
 
 This is a simplified infrastructure-live repository for testing purposes with [Gruntwork Runbooks](https://github.com/gruntwork-io/runbooks). It implements the basic patterns of organizing Infrastructure as Code (IaC) with Terragrunt.
 
+
+This is a simplified infrastructure-live repository for testing purposes with [Gruntwork Runbooks](https://github.com/gruntwork-io/runbooks). It implements the basic patterns of organizing Infrastructure as Code (IaC) with Terragrunt.
+
 This repository is modeled after [terragrunt-infrastructure-live-stacks-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-stacks-example) but simplified for ease of use in creating pull requests, launching modules, and testing infrastructure workflows.
 
 ## What is an `infrastructure-live` repository?
