@@ -25,3 +25,7 @@ out/
 # Lambda deployment packages
 *.zip
 bootstrap
+
+# Lambda deployment packages
+*.zip
+bootstrap
